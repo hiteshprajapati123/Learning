@@ -34,58 +34,6 @@ This project follows a structured learning path where you build the **same To-Do
 
 ---
 
-## 📅 Learning Timeline & Strategy
-
-Based on the GitHub project board, here's the structured learning plan:
-
-### **Week 1: Core PHP Foundations**
-- **📍 Sep 21 (Saturday) - PHP Basics**
-  - Variables, data types, operators
-  - Control structures (if/else, loops)
-  - Functions and arrays
-  - Form handling (GET/POST)
-
-### **Week 2: Laravel Fundamentals**
-- **📍 Sep 22 (Sunday) - Laravel Basics**
-  - Installation and MVC structure
-  - Routes, controllers, views
-  - Blade templating engine
-  - Database migrations and models
-
-### **Week 3: Livewire Integration**
-- **📍 Sep 23 (Monday) - Livewire Basics**
-  - Component creation
-  - Data binding with wire:model
-  - Actions and events
-  - Real-time UI updates
-
-### **Week 4: Filament Admin Panel**
-- **📍 Sep 24 (Tuesday) - Filament Basics**
-  - Installation and setup
-  - Resource creation
-  - Forms and tables
-  - Relationships and filters
-
-### **Week 5: WordPress Development**
-- **📍 Sep 25 (Wednesday) - WordPress Basics**
-  - Theme development
-  - Plugin creation
-  - Custom post types
-  - Shortcodes and hooks
-
-### **Week 6-8: Intermediate Level**
-- **📍 Sep 26 (Thursday) - PHP Intermediate**
-- **📍 Sep 27 (Friday) - Laravel Intermediate**
-- **📍 Sep 28 (Saturday) - Livewire Intermediate**
-- **📍 Sep 29 (Sunday) - Filament Intermediate**
-- **📍 Sep 30 (Monday) - WordPress Intermediate**
-
-
-
-
-
-
-
 ---
 
 ## 📚 Learning Resources
@@ -133,10 +81,6 @@ Use the GitHub Projects board to track your learning progress:
 
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
