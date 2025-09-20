@@ -34,8 +34,6 @@ This project follows a structured learning path where you build the **same To-Do
 
 ---
 
----
-
 ## 📚 Learning Resources
 
 ### Documentation
@@ -75,12 +73,6 @@ Use the GitHub Projects board to track your learning progress:
 - [ ] **Week 4**: Filament admin panel
 - [ ] **Week 5**: WordPress plugin/theme
 - [ ] **Week 6-8**: Intermediate features across all technologies
-
-
-
-
-
----
 
 ---
 
